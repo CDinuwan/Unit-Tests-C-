@@ -1,0 +1,5 @@
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit.Test\obj\Debug\net5.0\Unit.Test.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit.Test\obj\Debug\net5.0\Unit.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit.Test\obj\Debug\net5.0\Unit.Test.AssemblyInfoInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit.Test\obj\Debug\net5.0\Unit.Test.AssemblyInfo.cs
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit.Test\obj\Debug\net5.0\Unit.Test.csproj.CoreCompileInputs.cache

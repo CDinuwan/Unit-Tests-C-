@@ -1,0 +1,16 @@
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Unit Tests.exe
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Unit Tests.deps.json
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Unit Tests.runtimeconfig.json
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Unit Tests.runtimeconfig.dev.json
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Unit Tests.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\ref\Unit Tests.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Unit Tests.pdb
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.AssemblyInfoInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.AssemblyInfo.cs
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.csproj.CoreCompileInputs.cache
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\ref\Unit Tests.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.pdb
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.genruntimeconfig.cache
