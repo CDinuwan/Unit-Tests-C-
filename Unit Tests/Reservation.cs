@@ -6,20 +6,25 @@ using System.Threading.Tasks;
 
 namespace Unit_Tests
 {
-    class Reservation
+    public class Reservation
     {
-        public string MadeBy { get; set; }
-        public bool CanBeCancelledBy(string name)
+        public User MadeBy { get; set; }
+        public bool CanBeCancelledBy(User user)
         {
-            if(name=="chanuka")
+            if(user.IsAdmin)
             {
                 return true;
             }
-            if(name=="dinuwan")
+            if(MadeBy==user)
             {
                 return true;
             }
             return false;
         }
+    }
+
+    public class User
+    {
+        public bool IsAdmin { get; set; }
     }
 }

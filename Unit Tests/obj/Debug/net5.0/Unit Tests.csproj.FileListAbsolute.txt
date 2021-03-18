@@ -14,3 +14,10 @@ C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests
 C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\ref\Unit Tests.dll
 C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.pdb
 C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.genruntimeconfig.cache
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\nunit.engine.netstandard.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Mono.Cecil.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Chanuka Dinuwan\Desktop\VoiceIQ\VoiceIQ Interview\Unit Tests\Unit Tests\obj\Debug\net5.0\Unit Tests.csproj.CopyComplete
